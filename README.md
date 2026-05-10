@@ -1,7 +1,7 @@
 # Uts_teknik_kompilasi
 nama : Destiana Nur arifah 
 nim. : 231011402409
-kelas :06Tple 
+kelas :06Tple 006
 
 Tugas Mandiri: Implementasi Fase-Fase Kompilator
 Mata Kuliah: Teknik Kompilasi
